@@ -1,0 +1,27 @@
+{
+  "name": "@cimolabs/contracts",
+  "description": "Smart Contract libraries for Solidity",
+  "version": "1.0.0",
+  "files": [
+    "**/*.sol"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CinnamoonToken/cinamoon-contracts"
+  },
+  "keywords": [
+    "solidity",
+    "ethereum",
+    "smart",
+    "contracts",
+    "security",
+    "cimo",
+    "cinnamoon"
+  ],
+  "author": "Cinnamoon Development Team <development@cinnamoon.cc>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CinnamoonToken/cinamoon-contracts/issues"
+  },
+  "homepage": "https://cinnamoon.cc"
+}
