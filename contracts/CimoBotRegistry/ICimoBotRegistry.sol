@@ -2,7 +2,7 @@
 
 pragma solidity ^0.8.17;
 
-interface ISniperRegistry {
+interface ICimoBotRegistry {
 
     /**
      * @dev Emitted when `_address` is flaged as Sniper
