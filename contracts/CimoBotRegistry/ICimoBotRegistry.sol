@@ -1,6 +1,19 @@
 // SPDX-License-Identifier: MIT
 
+// https://github.com/CinnamoonToken/cinamoon-contracts/tree/main/contracts/CimoBotRegistry
+
 pragma solidity ^0.8.17;
+
+/**
+ * @dev ICimoBotRegistry provides the registry of known snipers and MEV bots.
+ *
+ * Registry is updated and maintained by Cinnamoon ($CIMO) team on a daily basis.
+ * Our scripts are analyzing the blockchain transactions, building a list of potential snipers/MEVs.
+ * Every potential bot address is manually reviewed
+ *
+ * You can find more info on https://cinnamoon.cc/cimo-bot-registry
+ * CimoBotRegistry is open source and free to use.
+ */
 
 interface ICimoBotRegistry {
 
