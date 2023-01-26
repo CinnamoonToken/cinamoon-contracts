@@ -17,7 +17,7 @@ CimoBotRegistry is open source and free to use.
 ### Contracts
 Cimo Bot Registry is deployed on Ethereum Mainnet, Görli and Sepolia under the same contract address
 
-| ***Network***      | ***Contract Address*** |
+| <b>Network</b>      | <b>Contract Address</b> |
 | ----------- | ----------- |
 | Ethereum Mainnet      | 0x00       |
 | Görli   | 0x000        |
@@ -68,6 +68,10 @@ if (from != owner() && to != uniswapV2Pair && block.number <= tradingActiveBlock
 ```
 ***Note: Do not block snipers completely. They should be able to buy after first N blocks. If you completely block them, you may lose volume and token growth***
 
+### Donations
+Cimo Bot Registry is open source and free to use. Cinnamoon team is updating the registry on a daily basis. If you find it useful and want to buy us a coffee or support the development, you can send any ERC-20 token to the address below:
+
+<b>0x98acBAec797415754e251BEa178B53879510dc3E<b>
 
 ## License
 
