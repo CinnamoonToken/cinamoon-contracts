@@ -19,9 +19,9 @@ Cimo Bot Registry is deployed on Ethereum Mainnet, Görli and Sepolia under the 
 
 | <b>Network</b>      | <b>Contract Address</b> |
 | ----------- | ----------- |
-| Ethereum Mainnet      | 0x00       |
-| Görli   | 0x000        |
-| Sepolia | 0x000       |
+| Ethereum Mainnet      | 0x8342A72516FCad9c5B5fd3830B531995A67a324d       |
+| Görli   | 0x8342A72516FCad9c5B5fd3830B531995A67a324d        |
+| Sepolia | 0x8342A72516FCad9c5B5fd3830B531995A67a324d       |
 
 ### Installation
 
